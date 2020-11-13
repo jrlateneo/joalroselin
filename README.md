@@ -28,7 +28,7 @@
 >Come check back every once in a while for new updates!
 
 <h2>🔎 Find me on: 👓</h2>
-[LinkedIn](https://www.linkedin.com/in/hellojrl/)
+<a href="https://www.linkedin.com/in/hellojrl/">LinkedIn</a>
 [Tech x Ethics](https://shadodevelopment.co/)
 [Sentinellium](https://www.facebook.com/sentinellium/)
 [Web Portfolio](https://joalroselin.co/)
