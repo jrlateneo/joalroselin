@@ -5,25 +5,25 @@
 
 <h2>⚡ Quick Bits 🌈</h2>
 <ul>
-  <li>I'm a self-taught software developer 👩‍💻. I'm currently trying to become a web developer and is **learning React**</li>
-  <li>I am a **gamer** 👾 and love creating game-related products (mechanics, writing, academic research, development, streaming, etc).</li>
-  <li>I'm **ADHD** and many of my personal passion dev ideas revolve around solving accessibility with technology.</li>
-  <li>I'm also _trying_ to start conversations on the intersection of tech and ethics and its impact on social progress and everyday life. _It's not going very well._</li>
+  <li>I'm a self-taught software developer 👩‍💻. I'm currently trying to become a web developer and is <strong>learning React</strong></li>
+  <li>I am a <strong>gamer</strong> 👾 and love creating game-related products (mechanics, writing, academic research, development, streaming, etc).</li>
+  <li>I'm <strong>ADHD</strong> and many of my personal passion dev ideas revolve around solving accessibility with technology.</li>
+  <li>I'm also <em>trying</em> to start conversations on the intersection of tech and ethics and its impact on social progress and everyday life. <em>It's not going very well.</em></li>
   <li>I'm obsessed with mechanical keyboards ⌨️ and an all around tech gear head.</li>
 </ul>
 
 <h2>🌱 What I'm Working On ⭐️</h2>
 <ul>
-  <li>A React based website for my health tech startup - **Sentinellium**</li>
-  <li>A **personal web portfolio** of sorts to showcase all my skills and products. _Eventually I want to offer simple web portfolios as a service for college kids._</li>
-  <li>A **guitar trainer app**. It's essentially a memorization assistive app for learning the fretboard.</li>
+  <li>A React based website for my health tech startup - <strong>Sentinellium</strong></li>
+  <li>A <strong>personal web portfolio</strong> of sorts to showcase all my skills and products. <em>Eventually I want to offer simple web portfolios as a service for college kids.</em></li>
+  <li>A <strong>guitar trainer app</strong>. It's essentially a memorization assistive app for learning the fretboard.</li>
   <li>Focus: a **reading assistant** for those with ADHD and Dsylexic symptoms.</li>
 </ul>
 
 ----
 
 >Aside from learning how to learn, teaching myself development and adjacent skills with only free resources is hard. And so progress has been slow.
->**But I'm having so much fun.**
+><strong>But I'm having so much fun.</strong>
 >
 >Come check back every once in a while for new updates!
 
@@ -39,5 +39,5 @@
 
 <h2>Thank you!</h2>
 
- ![Here's a potato for your trouble.](/assets/images/potato.jpg)
+ ![Here's a potato for your trouble.](/assets/potato.jpg)
 
