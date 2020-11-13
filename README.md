@@ -3,7 +3,10 @@
 <p>Welcome to my Github! It's a bit of a mess but I'm working on it.<br>
   Feel free to let me know if you find anything interesting or want to point something out.</p>
 
+<br>
+
 <h2>⚡ Quick Bits 🌈</h2>
+<br>
 <ul>
   <li>I'm a self-taught software developer 👩‍💻. I'm currently trying to become a web developer and is <strong>learning React</strong></li>
   <li>I am a <strong>gamer</strong> 👾 and love creating game-related products (mechanics, writing, academic research, development, streaming, etc).</li>
@@ -12,7 +15,9 @@
   <li>I'm obsessed with mechanical keyboards ⌨️ and an all around tech gear head.</li>
 </ul>
 
+<br>
 <h2>🌱 What I'm Working On ⭐️</h2>
+</br>
 <ul>
   <li>A React based website for my health tech startup - <strong>Sentinellium</strong></li>
   <li>A <strong>personal web portfolio</strong> of sorts to showcase all my skills and products. <em>Eventually I want to offer simple web portfolios as a service for college kids.</em></li>
@@ -20,13 +25,16 @@
   <li>Focus: a **reading assistant** for those with ADHD and Dsylexic symptoms.</li>
 </ul>
 
+<br>
 <h2>To be completely honest...</h2>
+<br>
 
 >Aside from learning how to learn, teaching myself development and adjacent skills with only free resources is hard. And so progress has been slow.
 ><strong>But I'm having so much fun.</strong>
 >
 >Come check back every once in a while for new updates!
 
+<br>
 <h2>🔎 Find me on: 👓</h2>
 <a href="https://www.linkedin.com/in/hellojrl/">LinkedIn</a>
 <a href="https://shadodevelopment.co/">Tech x Ethics</a>
