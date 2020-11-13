@@ -20,7 +20,7 @@
   <li>Focus: a **reading assistant** for those with ADHD and Dsylexic symptoms.</li>
 </ul>
 
-----
+<h2>To be completely honest...</h2>
 
 >Aside from learning how to learn, teaching myself development and adjacent skills with only free resources is hard. And so progress has been slow.
 ><strong>But I'm having so much fun.</strong>
@@ -29,13 +29,13 @@
 
 <h2>🔎 Find me on: 👓</h2>
 <a href="https://www.linkedin.com/in/hellojrl/">LinkedIn</a>
-[Tech x Ethics](https://shadodevelopment.co/)
-[Sentinellium](https://www.facebook.com/sentinellium/)
-[Web Portfolio](https://joalroselin.co/)
+<a href="https://shadodevelopment.co/">Tech x Ethics</a>
+<a href="https://www.facebook.com/sentinellium/">Sentinellium</a>
+<a href="https://joalroselin.co/">Web Portfolio</a>
 
-[Twitter](htttps://twitter.com/ladyanarchyj/)
-[Instagram](htttps://instagram.com/ladyanarchyj/)
-[Streaming](https://www.facebook.com/gaming/LadyAnarchyJ/)
+<a href="htttps://twitter.com/ladyanarchyj/">Twitter</a>
+<a href="htttps://instagram.com/ladyanarchyj/">Instagram</a>
+<a href="https://www.facebook.com/gaming/LadyAnarchyJ/">Streaming</a>
 
 <h2>Thank you!</h2>
 
