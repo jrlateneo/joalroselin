@@ -8,7 +8,7 @@
 <h2>⚡ Quick Bits 🌈</h2>
 <br>
 <ul>
-  <li>I'm a self-taught software developer 👩‍💻. I'm currently trying to become (get hired as) a web developer and right now <strong>learning React</strong>.</li>
+  <li>I'm a self-taught software developer 👩‍💻. I'm currently trying to become (get hired as) a web developer and right now <strong>focusing my effort on React and Flutter</strong>.</li>
   <li>I am a <strong>gamer</strong> 👾 and love creating game-related products (mechanics, writing, academic research, development, streaming, etc).</li>
   <li>I have <strong>ADHD</strong> and many of my personal passion dev ideas revolve around solving accessibility with technology.</li>
   <li>I'm also <em>trying</em> to start conversations on the intersection of tech and ethics and its impact on social progress and everyday life. <em>It's not going very well.</em></li>
