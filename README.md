@@ -8,7 +8,7 @@
 <h2>⚡ Quick Bits 🌈</h2>
 <br>
 <ul>
-  <li>I'm a self-taught software developer 👩‍💻. I'm currently trying to become (get hired as) a web developer and right now <strong>focusing my effort on React and Flutter</strong>.</li>
+  <li>I'm a self-taught software developer 👩‍💻. I'm a Salesforce Developer by profession with roots in web and mobile development.</li>
   <li>I am a <strong>gamer</strong> 👾 and love creating game-related products (mechanics, writing, academic research, development, streaming, etc).</li>
   <li>I have <strong>ADHD</strong> and many of my personal passion dev ideas revolve around solving accessibility with technology.</li>
   <li>I'm also <em>trying</em> to start conversations on the intersection of tech and ethics and its impact on social progress and everyday life. <em>It's not going very well.</em></li>
@@ -38,11 +38,9 @@
 <a href="https://www.linkedin.com/in/hellojrl/">LinkedIn</a><br>
 <a href="https://shadodevelopment.co/">Tech x Ethics</a><br>
 <a href="https://www.facebook.com/sentinellium/">Sentinellium</a><br>
-<a href="https://joalroselin.co/">Web Portfolio</a><br>
 
 <a href="https://twitter.com/ladyanarchyj/">Twitter</a><br>
 <a href="https://instagram.com/ladyanarchyj/">Instagram</a><br>
-<a href="https://www.facebook.com/gaming/LadyAnarchyJ/">Streaming</a><br>
 
 <h2>Thank you!</h2>
 
